@@ -1,0 +1,4 @@
+---
+kvm_bridge_physical_interfaces:
+  - eno1
+kvm_bridge_interface: br0

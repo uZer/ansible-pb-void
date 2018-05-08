@@ -1,0 +1,7 @@
+---
+- src: https://github.com/uZer/ansible-role-ansible
+  name: uZer.ansible
+
+- src: https://github.com/uZer/ansible-role-kvm
+  name: uZer.kvm
+

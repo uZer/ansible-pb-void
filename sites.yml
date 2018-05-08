@@ -1,0 +1,7 @@
+---
+- name: Deploy home devices
+  hosts:
+    - home
+  roles:
+    - role: ansible
+    - role: kvm
